@@ -1,0 +1,57 @@
+"Time Stamp" "DBUID" "DB name" "Area" "Area #" "Block Type" "Num Blocks"
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "Record" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "Index" 2
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "Empty" 2
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "Object" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "HWM" 5
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "Total" 7
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "Record" 221
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "Index" 166
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "Empty" 9
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "Object" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "HWM" 390
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "Total" 399
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "Record" 7
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "Index" 8
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "Empty" 77
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "Object" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "HWM" 17
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "Total" 94
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "Record" 265
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "Index" 39
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "Empty" 12
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "Object" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "HWM" 306
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "Total" 318
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "Record" 40
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "Index" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "Empty" 52
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "Object" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "HWM" 42
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "Total" 94
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "Record" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "Index" 19
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "Empty" 73
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "Object" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "HWM" 21
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "Total" 94
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "Record" 561
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "Index" 79
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "Empty" 12
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "Object" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "HWM" 642
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "Total" 654
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "Record" 8
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "Index" 16
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "Empty" 68
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "Object" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "HWM" 26
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "Total" 94

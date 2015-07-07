@@ -1,0 +1,125 @@
+<html>
+  <head>
+    <style>
+
+    .btn {
+      background: #3498db;
+      background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+      background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+      background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+      background-image: -o-linear-gradient(top, #3498db, #2980b9);
+      background-image: linear-gradient(to bottom, #3498db, #2980b9);
+      -webkit-border-radius: 28;
+      -moz-border-radius: 28;
+      border-radius: 28px;
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 17px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+    }
+
+    .btn:hover {
+      background: #3cb0fd;
+      background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+      background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+      background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+      background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+      background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+      text-decoration: none;
+    }
+
+    </style>
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["treemap"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Name', 'Area', 'Size', 'color', '#records'],
+          ['Global', null, 0, 0, 0],
+          ['Control Area area', 'Global', 0, 0, 0],
+          ['_Area', 'Control Area area', 394, 0, 9],
+          ['_AreaExtent', 'Control Area area', 567, 0, 15],
+          ['Schema Area area', 'Global', 0, 0, 0],
+          ['_Db', 'Schema Area area', 1174, 0, 1],
+          ['_Db-Detail', 'Schema Area area', 41, 0, 1],
+          ['_Db-Option', 'Schema Area area', 459, 0, 6],
+          ['_Field', 'Schema Area area', 586040, 0, 1932],
+          ['_File', 'Schema Area area', 72913, 0, 196],
+          ['_File-Trig', 'Schema Area area', 866, 0, 20],
+          ['_Index', 'Schema Area area', 40869, 0, 227],
+          ['_Index-Field', 'Schema Area area', 64845, 0, 421],
+          ['_sec-authentication-domain', 'Schema Area area', 702, 0, 5],
+          ['_sec-authentication-system', 'Schema Area area', 198, 0, 3],
+          ['_Sequence', 'Schema Area area', 1620, 0, 13],
+          ['_StorageObject', 'Schema Area area', 14263, 0, 283],
+          ['_Syscalctable', 'Schema Area area', 6, 0, 1],
+          ['_Sysdatatypes', 'Schema Area area', 561, 0, 17],
+          ['_Sysdbauth', 'Schema Area area', 38, 0, 2],
+          ['_Sysproccolumns', 'Schema Area area', 8832, 0, 202],
+          ['_Sysprocedures', 'Schema Area area', 742, 0, 12],
+          ['_Systabauth', 'Schema Area area', 8443, 0, 145],
+          ['_Sysviews', 'Schema Area area', 7236, 0, 51],
+          ['Employee area', 'Global', 0, 0, 0],
+          ['Benefits', 'Employee area', 848, 0, 21],
+          ['Department', 'Employee area', 211, 0, 7],
+          ['Employee', 'Employee area', 6343, 0, 55],
+          ['Family', 'Employee area', 3195, 0, 72],
+          ['TimeSheet', 'Employee area', 1081, 0, 25],
+          ['Vacation', 'Employee area', 288, 0, 12],
+          ['Inventory area', 'Global', 0, 0, 0],
+          ['Bin', 'Inventory area', 26865, 0, 770],
+          ['InventoryTrans', 'Inventory area', 3661, 0, 75],
+          ['Item', 'Inventory area', 7760, 0, 55],
+          ['POLine', 'Inventory area', 222724, 0, 5337],
+          ['PurchaseOrder', 'Inventory area', 70263, 0, 2129],
+          ['Supplier', 'Inventory area', 1177, 0, 10],
+          ['SupplierItemXref', 'Inventory area', 1118, 0, 56],
+          ['Warehouse', 'Inventory area', 1288, 0, 14],
+          ['Cust_Data area', 'Global', 0, 0, 0],
+          ['Customer', 'Cust_Data area', 150588, 0, 1117],
+          ['Order area', 'Global', 0, 0, 0],
+          ['BillTo', 'Order area', 221, 0, 2],
+          ['Order', 'Order area', 358950, 0, 3953],
+          ['OrderLine', 'Order area', 605019, 0, 13970],
+          ['ShipTo', 'Order area', 311, 0, 3],
+          ['Misc area', 'Global', 0, 0, 0],
+          ['Feedback', 'Misc area', 1033, 0, 8],
+          ['Invoice', 'Misc area', 5613, 0, 147],
+          ['LocalDefault', 'Misc area', 724, 0, 10],
+          ['RefCall', 'Misc area', 2480, 0, 13],
+          ['Salesrep', 'Misc area', 746, 0, 9],
+          ['State', 'Misc area', 1755, 0, 51],
+        ]);
+
+        tree = new google.visualization.TreeMap(document.getElementById('chart_div'));
+
+        tree.draw(data, {
+          minColor: '#f00',
+          midColor: '#ddd',
+          maxColor: '#0d0',
+          headerHeight: 15,
+          fontColor: 'black',
+          showScale: true,
+          generateTooltip: showFullTooltip
+        });
+
+        function showFullTooltip(row, size, value) {
+          return '<div style="background:#fd9; padding:10px; border-style:solid">' +
+                 '<span style="font-family:Courier"><h2>' + data.getValue(row, 0) +
+                 '</h2>, ' + data.getValue(row, 1) + ', ' + data.getValue(row, 2) +
+                 ', ' + data.getValue(row, 3) + '</span><br>' +
+                 'Datatable row: ' + row + '<br>' + data.getColumnLabel(2) +
+                 ' total size: ' + size + '<br>' + data.getColumnLabel(3) + ': ' + value + ' </div>';
+        }
+
+      }
+    </script>
+  </head>
+  <body>
+    <a class="btn" onclick="tree.goUpAndDraw();" >Back</a>
+    <div id="chart_div" style="width: 100%; height: 95%;"></div>
+  </body>
+</html>

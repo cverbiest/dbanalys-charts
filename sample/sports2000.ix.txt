@@ -1,0 +1,180 @@
+"Time Stamp" "DBUID" "DB name" "Area" "Area #" "Partition Type" "Tenancy" "Tenancy #" "Partition Policy" "Partition" "Partition #" "Owner" "Table" "Table #" "Index" "Index #" "State" "Fields" "Levels" "Blocks" "Size" "Utilization" "Factor"
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "-" "-" 0 "-" "-" 0 "PUB" "_Area" -71 "_Area-Number" 1027 1 1 1 1 88    2.2    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "-" "-" 0 "-" "-" 0 "PUB" "_AreaExtent" -72 "_AreaExtent-Area" 1028 1 2 1 1 160    3.9    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "InventoryTrans" 22 "default" 58 1 0 1 1 74    1.8    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Client-Session" -200 "_Auth-time" 1083 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Client-Session" -200 "_Db-guid" 1084 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Client-Session" -200 "_Session-uuid" 1085 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Client-Session" -200 "_Userid" 1082 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Codepage" -68 "_Codepage-Name" 1089 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Codepage" -68 "_Codepage-Seq" 1090 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Collation" -69 "_Collation-Name" 1091 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Collation" -69 "_Collation-Seq" 1092 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Constraint" -360 "_Con-dependency" -1604 1 4 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Constraint" -360 "_Con-Migrate" -1602 1 4 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Constraint" -360 "_Con-Migration-Seq" -1603 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Constraint" -360 "_Con-Num" -1600 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Constraint" -360 "_Con-Present" -1601 1 4 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Constraint-Keys" -361 "_Con-Key-Ord" -1610 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Db" -6 "_Database" 1023 1 1 1 1 17    0.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Db-Detail" -201 "_Db-guid" 1086 1 1 1 1 37    0.9    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Db-Option" -202 "_Option-code" 1088 1 3 1 1 158    3.9    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Field" -2 "_Field-Name" 3 1 2 2 11 29872   66.8    1.7
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Field" -2 "_Field-Position" 4 1 2 2 7 18042   63.4    1.7
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Field" -2 "_Fieldphyspos" 1087 1 2 2 8 17951   55.2    1.9
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Field" -2 "_File/Field" 2 1 2 2 13 29169   55.2    1.9
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Field-Trig" -66 "_Field-Trig-DBK" 1020 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Field-Trig" -66 "_Field-Trig-Rpos" 1021 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_File" -1 "_Db/File" 1022 1 3 2 3 4144   34.0    2.3
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_File" -1 "_Dump-Name" 1024 1 3 1 1 1544   38.0    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_File" -1 "_File-Name" 1 1 1 1 1 2934   72.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_File" -1 "_File-Number" 1032 1 1 1 1 1780   43.8    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_File-Trig" -65 "_File-Trig" 1000 1 2 1 1 317    7.8    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Index" -3 "_File/Index" 5 1 2 2 3 4564   37.4    2.3
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Index" -3 "_Index-Name" 999 1 1 1 1 3299   81.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Index" -3 "_Index-Number" 1033 1 1 1 1 2061   50.7    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Index-Field" -4 "_Field" 7 1 1 1 1 3503   86.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Index-Field" -4 "_Index/Number" 6 1 2 2 3 4302   35.3    2.3
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_KeyEvent" -208 "_KeyEvent-Date" -1316 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_KeyEvent" -208 "_KeyEvent-MsgId" -1317 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_KeyEvent" -208 "_KeyEvent-Usrnum" -1318 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Partition-Set" -350 "_Partition-Set-Name" -1531 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Partition-Set" -350 "_Partition-Set-Object" -1530 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Partition-Set" -350 "_Partition-Set-Type" -1532 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Partition-Set-Detail" -351 "_Partition-Set-Object" -1534 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Partition-Set-Detail" -351 "_Partition-Set-Tenant" -1535 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Partition-Set-Detail" -351 "_Partition-SetId" -1533 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-domain" -207 "_Domain-description" -1313 1 1 1 1 364    8.9    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-domain" -207 "_Domain-enabled" -1314 1 1 1 1 21    0.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-domain" -207 "_Domain-Id" -1298 1 1 1 1 52    1.3    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-domain" -207 "_Domain-name" -1312 1 1 1 1 64    1.6    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-domain" -207 "_Domain-type" -1315 1 1 1 1 44    1.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-domain" -207 "_Tenant-Name" -1299 1 1 1 1 21    0.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-system" -206 "_Domain-type" -1309 1 1 1 1 55    1.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-system" -206 "_Domain-type-description" -1310 1 1 1 1 101    2.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-authentication-system" -206 "_PAM-module-name" -1311 1 1 1 1 19    0.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-granted-role" -204 "_Granted-role-guid" -1303 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-granted-role" -204 "_Grantee" -1304 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-granted-role" -204 "_Grantor" -1305 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-granted-role" -204 "_Role-name" -1306 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-granted-role-condition" -205 "_Conditional-attribute" -1308 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-granted-role-condition" -205 "_Granted-role-guid" -1307 1 4 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-role" -203 "_Role-creator" -1301 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-role" -203 "_Role-description" -1302 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_sec-role" -203 "_Role-name" -1300 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sequence" -67 "_Seq-Name" 1025 1 2 1 1 207    5.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_SQL_Properties" -126 "_Idxsqlproperties" 1081 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_StorageObject" -70 "_Object-Area-Number" -1591 1 1 1 1 303    7.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_StorageObject" -70 "_Object-Id" 1026 1 5 1 1 3706   91.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_StorageObject" -70 "_Object-PartitionId" -1590 1 1 1 1 205    5.0    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysautostats" -127 "_Sysautostats-Policy" -1560 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysautostats" -127 "_Sysautostats-Table" -1561 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysbigintstat" -117 "_Idxsysbigintstat" 1063 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syscalctable" -92 "_Idxsyscalctable" 1070 1 1 1 1 17    0.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syscharstat" -113 "_Idxsyscharstat" 1046 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syschkcolusage" -90 "_Idxchkcolcolusage" 1041 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syschkcolusage" -90 "_Idxchkcolusage" 1039 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syschkconstrs" -88 "_Idxchkconstrs" 1038 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syschkconstr_Name_Map" -123 "_Idxsyschkconstrnmmap" 1078 1 4 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syscolauth" -83 "_Idxsyscolauth" 1059 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syscolstat" -104 "_Idxsyscolstat" 1045 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysdatatypes" -91 "_Idxsysdatatypes" 1069 1 1 1 1 161    4.0    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysdatestat" -109 "_Idxsysdatestat" 1047 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysdbauth" -81 "_Idxsysdbauth" 1066 1 2 1 1 43    1.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysfloatstat" -110 "_Idxsysfloatstat" 1058 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysidxstat" -94 "_Idxsysidxstat" 1044 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysintstat" -107 "_Idxsysintstat" 1048 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syskeycolusage" -86 "_Idxkeycolusage" 1037 1 4 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysncharstat" -118 "_Idxsysncharstat" 1056 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysnumstat" -108 "_Idxsysnumstat" 1050 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysnvarcharstat" -119 "_Idxsysnvarcharstat" 1057 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysprocbin" -102 "_Idxsysprocbin" 1064 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysproccolumns" -97 "_Idxsysproccolumns" 1072 1 1 1 1 309    7.6    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysprocedures" -96 "_Idxsysprocedures" 1065 1 1 1 1 178    4.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysproctext" -103 "_Idxsysproctext" 1074 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysrealstat" -114 "_Idxsysrealstat" 1052 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysrefconstrs" -87 "_Idxrefcnstrsref" 1042 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysrefconstrs" -87 "_Idxrefconstrs" 1040 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysroles" -124 "_Idxsysroles" 1079 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysschemas" -125 "_Idxsysschemas" 1080 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysseqauth" -121 "_Idxsysseqauth" 1076 1 4 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syssmintstat" -106 "_Idxsyssmintstat" 1051 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syssynonyms" -84 "_Sysprvsynidx" 1034 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syssynonyms" -84 "_Syspubsynidx" 1035 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Systabauth" -82 "_Idxsystabauth" 1060 1 6 2 3 5179   42.4    2.2
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Systblconstrs" -89 "_Idxtblconstrs" 1036 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Systblstat" -93 "_Idxsystblstat" 1043 1 4 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Systimestat" -112 "_Idxsystimestat" 1053 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Systinyintstat" -116 "_Idxsystinyintstat" 1062 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Systrigcols" -99 "_Idxsystrigcols" 1073 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Systrigger" -98 "_Idxsystrigger" 1067 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Systsstat" -115 "_Idxsystsstat" 1054 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Syststzstat" -120 "_Idxsyststzstat" 1075 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysvarcharstat" -105 "_Idxsysvarcharstat" 1055 1 5 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysviews" -80 "_Viewidx" 1031 1 3 1 1 908   22.3    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Sysviews_Name_Map" -122 "_Idxsysviewsnmmap" 1077 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Tenant" -340 "_Tenant-Name" -1500 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Tenant" -340 "_TenantId" -1501 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_User" -5 "_User-domain-name" -1581 1 3 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_User" -5 "_User-sql-only-user" -1580 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_User" -5 "_Userid" 0 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_View" -30 "_View-Name" 994 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_View-Col" -31 "_Vcol-Position" 996 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_View-Col" -31 "_View-Col" 995 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_View-Ref" -32 "_View-Ref" 997 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_View-Ref" -32 "_Vref-View" 998 1 1 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "PUB" "_Word-rule" -79 "_Wr-Number" 1093 1 2 1 1 3    0.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "PUB" "Benefits" 15 "EmpNo" 44 1 1 1 1 197    4.8    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "PUB" "Department" 14 "DeptCode" 43 1 1 1 1 84    2.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "PUB" "Employee" 10 "DeptCode" 38 1 1 1 1 132    3.2    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "PUB" "Employee" 10 "EmpNo" 37 1 1 1 1 503   12.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "PUB" "Employee" 10 "Name" 39 1 2 1 1 1038   25.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "PUB" "Family" 13 "EmpNoRelativeName" 42 1 2 1 1 1479   36.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "PUB" "TimeSheet" 11 "EmpNoDayRecorded" 40 1 2 1 1 293    7.2    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "PUB" "Vacation" 12 "EmpNoStartDate" 41 1 2 1 1 152    3.7    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Bin" 21 "BinNum" 55 1 1 2 3 6972   57.1    1.9
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Bin" 21 "ItemNum" 56 1 1 1 1 1974   48.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Bin" 21 "WarehouseNumItemNum" 57 1 2 2 3 7006   57.4    1.9
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Item" 3 "CatDescription" 18 1 1 2 3 4214   34.5    2.3
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Item" 3 "Category2ItemName" 19 1 2 1 1 958   23.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Item" 3 "CategoryItemName" 20 1 2 1 1 1061   26.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Item" 3 "ItemName" 21 1 1 1 1 934   23.0    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Item" 3 "ItemNum" 17 1 1 1 1 503   12.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "POLine" 24 "PONumLinenum" 60 1 2 2 14 52548   92.3    1.2
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "PurchaseOrder" 23 "PONum" 59 1 1 2 6 19266   78.9    1.4
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Supplier" 19 "SupplierID" 52 1 1 1 1 97    2.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "SupplierItemXref" 25 "ItemNumSupplierID" 62 1 2 1 1 624   15.3    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "SupplierItemXref" 25 "SupplieridItemNum" 61 1 2 1 1 542   13.3    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Warehouse" 20 "warehousename" 54 1 1 1 1 307    7.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "PUB" "Warehouse" 20 "warehousenum" 53 1 1 1 1 133    3.3    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "-" "-" 0 "-" "-" 0 "PUB" "Customer" 2 "Comments" 13 1 1 1 1 902   22.2    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "-" "-" 0 "-" "-" 0 "PUB" "Customer" 2 "CountryPost" 14 1 2 2 4 9192   56.5    1.9
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "-" "-" 0 "-" "-" 0 "PUB" "Customer" 2 "CustNum" 12 1 1 2 4 10115   62.2    1.8
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "-" "-" 0 "-" "-" 0 "PUB" "Customer" 2 "Name" 15 1 1 2 9 23029   62.9    1.7
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "-" "-" 0 "-" "-" 0 "PUB" "Customer" 2 "SalesRep" 16 1 1 1 1 1358   33.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "BillTo" 17 "custnumbillto" 46 1 2 1 1 27    0.7    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "Order" 18 "CustOrder" 48 1 2 2 12 39477   80.9    1.4
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "Order" 18 "OrderDate" 49 1 1 2 5 14229   70.0    1.6
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "Order" 18 "OrderNum" 47 1 1 2 10 35759   87.9    1.2
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "Order" 18 "OrderStatus" 50 1 1 1 1 1486   36.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "Order" 18 "SalesRep" 51 1 1 2 3 4541   37.2    2.3
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "OrderLine" 4 "itemnum" 23 1 1 2 9 27483   75.1    1.5
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "OrderLine" 4 "orderline" 22 1 2 2 34 134228   97.0    1.1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "OrderLine" 4 "OrderLineStatus" 24 1 1 2 3 4336   35.5    2.3
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "PUB" "ShipTo" 16 "custnumshipto" 45 1 2 1 1 36    0.9    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Feedback" 9 "Comments" 33 1 1 1 1 592   14.6    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Feedback" 9 "Company" 34 1 1 1 1 244    6.0    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Feedback" 9 "Contact" 35 1 1 1 1 189    4.6    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Feedback" 9 "Department" 32 1 1 1 1 122    3.0    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Feedback" 9 "Rating" 36 1 1 1 1 39    1.0    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Invoice" 1 "CustNum" 9 1 1 1 1 719   17.7    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Invoice" 1 "InvoiceDate" 10 1 1 1 1 998   24.5    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Invoice" 1 "InvoiceNum" 8 1 1 1 1 1331   32.7    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Invoice" 1 "OrderNum" 11 1 1 1 1 1331   32.7    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "LocalDefault" 7 "localdefnum" 27 1 1 1 1 97    2.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "RefCall" 8 "CallNum" 28 1 1 1 1 130    3.2    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "RefCall" 8 "CustNum" 29 1 2 1 1 171    4.2    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "RefCall" 8 "Sibling" 30 1 2 1 1 180    4.4    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "RefCall" 8 "Txt" 31 1 1 1 1 2242   55.1    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "Salesrep" 5 "SalesRep" 25 1 1 1 1 105    2.6    1.0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "PUB" "State" 6 "State" 26 1 1 1 1 485   11.9    1.0

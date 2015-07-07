@@ -1,0 +1,25 @@
+"Time Stamp" "DBUID" "DB name" "Area" "Area #" "Partition Type" "Tenancy" "Tenancy #" "Partition Policy" "Partition" "Partition #" "Object type" "Owner" "Object" "Object #" "Chain Type" "Num Blocks"
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "RM" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Control Area" 1 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Index-Delete" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "RM" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Schema Area" 6 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Index-Delete" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "RM" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Employee" 7 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Index-Delete" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "RM" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Inventory" 8 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Index-Delete" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "RM" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Data" 9 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Index-Delete" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "RM" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Cust_Index" 10 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Index-Delete" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "RM" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Order" 11 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Index-Delete" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Free" 0
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "RM" 1
+2015-07-07T17:05:42.000+2:00 "o1GqqV/0QITvE2lsSOBp1g" "sports2000" "Misc" 12 "-" "-" 0 "-" "-" 0 "-" "-" "-" 0 "Index-Delete" 0

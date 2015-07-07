@@ -1,0 +1,1220 @@
+OpenEdge Release 11.5.1 as of Wed May  6 18:21:44 EDT 2015
+
+
+PROGRESS Database Analysis
+
+Database: /usr2/cce/appl/test/cvb/dbanal/sample/sports2000
+Blocksize: 4096
+RecSpaceSearchDepth: 5
+Options: chanalys ixanalys tabanalys 
+Date: Tue Jul  7 17:05:42 2015
+
+
+CHAIN ANALYSIS FOR AREA "Control Area": 1
+----------------------------------------------------------
+
+FREE CHAIN ANALYSIS
+-------------------
+
+0 block(s) found in the free chain.
+
+
+RM CHAIN ANALYSIS
+---------------------------
+
+1 block(s) found in the RM chain.
+
+
+INDEX DELETE CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the Index Delete chain.
+
+
+AREA "Control Area": 1  BLOCK ANALYSIS
+-------------------------------------------------
+
+7 block(s) found in the area.
+
+Current high water mark: 5
+
+    0 free block(s) found in the area
+    1 record block(s) found in the area
+    2 index block(s) found in the area
+    2 empty block(s) found in the area
+    1 object block(s) found in the area
+
+CHAIN ANALYSIS FOR AREA "Schema Area": 6
+----------------------------------------------------------
+
+FREE CHAIN ANALYSIS
+-------------------
+
+0 block(s) found in the free chain.
+
+
+RM CHAIN ANALYSIS
+---------------------------
+
+1 block(s) found in the RM chain.
+
+
+INDEX DELETE CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the Index Delete chain.
+
+
+AREA "Schema Area": 6  BLOCK ANALYSIS
+-------------------------------------------------
+
+399 block(s) found in the area.
+
+Current high water mark: 390
+
+    0 free block(s) found in the area
+    221 record block(s) found in the area
+    166 index block(s) found in the area
+    9 empty block(s) found in the area
+    1 object block(s) found in the area
+
+CHAIN ANALYSIS FOR AREA "Employee": 7
+----------------------------------------------------------
+
+FREE CHAIN ANALYSIS
+-------------------
+
+0 block(s) found in the free chain.
+
+
+RM CHAIN ANALYSIS
+---------------------------
+
+1 block(s) found in the RM chain.
+
+
+INDEX DELETE CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the Index Delete chain.
+
+
+AREA "Employee": 7  BLOCK ANALYSIS
+-------------------------------------------------
+
+94 block(s) found in the area.
+
+Current high water mark: 17
+
+    0 free block(s) found in the area
+    7 record block(s) found in the area
+    8 index block(s) found in the area
+    77 empty block(s) found in the area
+    1 object block(s) found in the area
+
+CHAIN ANALYSIS FOR AREA "Inventory": 8
+----------------------------------------------------------
+
+FREE CHAIN ANALYSIS
+-------------------
+
+0 block(s) found in the free chain.
+
+
+RM CHAIN ANALYSIS
+---------------------------
+
+1 block(s) found in the RM chain.
+
+
+INDEX DELETE CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the Index Delete chain.
+
+
+AREA "Inventory": 8  BLOCK ANALYSIS
+-------------------------------------------------
+
+318 block(s) found in the area.
+
+Current high water mark: 306
+
+    0 free block(s) found in the area
+    265 record block(s) found in the area
+    39 index block(s) found in the area
+    12 empty block(s) found in the area
+    1 object block(s) found in the area
+
+CHAIN ANALYSIS FOR AREA "Cust_Data": 9
+----------------------------------------------------------
+
+FREE CHAIN ANALYSIS
+-------------------
+
+0 block(s) found in the free chain.
+
+
+RM CHAIN ANALYSIS
+---------------------------
+
+1 block(s) found in the RM chain.
+
+
+INDEX DELETE CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the Index Delete chain.
+
+
+AREA "Cust_Data": 9  BLOCK ANALYSIS
+-------------------------------------------------
+
+94 block(s) found in the area.
+
+Current high water mark: 42
+
+    0 free block(s) found in the area
+    40 record block(s) found in the area
+    0 index block(s) found in the area
+    52 empty block(s) found in the area
+    1 object block(s) found in the area
+
+CHAIN ANALYSIS FOR AREA "Cust_Index": 10
+----------------------------------------------------------
+
+FREE CHAIN ANALYSIS
+-------------------
+
+0 block(s) found in the free chain.
+
+
+RM CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the RM chain.
+
+
+INDEX DELETE CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the Index Delete chain.
+
+
+AREA "Cust_Index": 10  BLOCK ANALYSIS
+-------------------------------------------------
+
+94 block(s) found in the area.
+
+Current high water mark: 21
+
+    0 free block(s) found in the area
+    0 record block(s) found in the area
+    19 index block(s) found in the area
+    73 empty block(s) found in the area
+    1 object block(s) found in the area
+
+CHAIN ANALYSIS FOR AREA "Order": 11
+----------------------------------------------------------
+
+FREE CHAIN ANALYSIS
+-------------------
+
+0 block(s) found in the free chain.
+
+
+RM CHAIN ANALYSIS
+---------------------------
+
+1 block(s) found in the RM chain.
+
+
+INDEX DELETE CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the Index Delete chain.
+
+
+AREA "Order": 11  BLOCK ANALYSIS
+-------------------------------------------------
+
+654 block(s) found in the area.
+
+Current high water mark: 642
+
+    0 free block(s) found in the area
+    561 record block(s) found in the area
+    79 index block(s) found in the area
+    12 empty block(s) found in the area
+    1 object block(s) found in the area
+
+CHAIN ANALYSIS FOR AREA "Misc": 12
+----------------------------------------------------------
+
+FREE CHAIN ANALYSIS
+-------------------
+
+0 block(s) found in the free chain.
+
+
+RM CHAIN ANALYSIS
+---------------------------
+
+1 block(s) found in the RM chain.
+
+
+INDEX DELETE CHAIN ANALYSIS
+---------------------------
+
+0 block(s) found in the Index Delete chain.
+
+
+AREA "Misc": 12  BLOCK ANALYSIS
+-------------------------------------------------
+
+94 block(s) found in the area.
+
+Current high water mark: 26
+
+    0 free block(s) found in the area
+    8 record block(s) found in the area
+    16 index block(s) found in the area
+    68 empty block(s) found in the area
+    1 object block(s) found in the area
+
+
+
+
+
+                            RECORD BLOCK SUMMARY
+
+
+
+RECORD BLOCK SUMMARY FOR AREA "Control Area": 1
+-------------------------------------------------------
+
+
+RECORD BLOCK SUMMARY FOR SHARED TABLES
+--------------------------------------------
+
+
+                                                           -Record Size (B)-           ---Fragments--- Scatter
+Table                                    Records    Size   Min   Max  Mean                Count Factor  Factor
+PUB._Area                                      9  394.0B    38    54    43                    9    1.0     1.0
+PUB._AreaExtent                               15  567.0B    35    40    37                   15    1.0     1.0
+
+                                 -----------------------------------------------------------------------------
+Subtotals:                                    24  961.0B    35    54    40                   24    1.0     1.0
+
+
+
+
+                                 -----------------------------------------------------------------------------
+Summary for AREA "Control Area": 1
+Subtotals:                                    24  961.0B    35    54    40                   24    1.0     1.0
+
+
+
+
+
+RECORD BLOCK SUMMARY FOR AREA "Schema Area": 6
+-------------------------------------------------------
+
+
+RECORD BLOCK SUMMARY FOR SHARED TABLES
+--------------------------------------------
+
+
+                                                           -Record Size (B)-           ---Fragments--- Scatter
+Table                                    Records    Size   Min   Max  Mean                Count Factor  Factor
+PUB._Client-Session                            0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Codepage                                  0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Collation                                 0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Constraint                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Constraint-Keys                           0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Db                                        1    1.1K  1174  1174  1174                    2    2.0     3.3
+PUB._Db-Detail                                 1   41.0B    41    41    41                    1    1.0     1.0
+PUB._Db-Option                                 6  459.0B    60    83    76                    6    1.0     1.0
+PUB._Field                                  1932  572.3K   262  1774   303                 2205    1.1     3.4
+PUB._Field-Trig                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._File                                    196   71.2K   280  3200   372                  228    1.2     3.5
+PUB._File-Trig                                20  866.0B    41    47    43                   20    1.0     2.5
+PUB._Index                                   227   39.9K   171   191   180                  232    1.0     2.7
+PUB._Index-Field                             421   63.3K   154   155   154                  421    1.0     2.1
+PUB._KeyEvent                                  0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Partition-Set                             0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Partition-Set-Detail                      0    0.0B     0     0     0                    0    0.0     0.0
+PUB._sec-authentication-domain                 5  702.0B    58   168   140                    5    1.0     1.0
+PUB._sec-authentication-system                 3  198.0B    46    89    66                    3    1.0     1.0
+PUB._sec-granted-role                          0    0.0B     0     0     0                    0    0.0     0.0
+PUB._sec-granted-role-condition                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._sec-role                                  0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sequence                                 13    1.6K   121   127   124                   13    1.0     1.0
+PUB._SQL_Properties                            0    0.0B     0     0     0                    0    0.0     0.0
+PUB._StorageObject                           283   13.9K    47    53    50                  283    1.0     2.5
+PUB._Sysautostats                              0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysbigintstat                             0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syscalctable                              1    6.0B     6     6     6                    1    1.0     1.0
+PUB._Syscharstat                               0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syschkcolusage                            0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syschkconstrs                             0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syschkconstr_Name_Map                     0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syscolauth                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syscolstat                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysdatatypes                             17  561.0B    24    44    33                   17    1.0     1.0
+PUB._Sysdatestat                               0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysdbauth                                 2   38.0B    17    21    19                    2    1.0     2.8
+PUB._Sysfloatstat                              0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysidxstat                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysintstat                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syskeycolusage                            0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysncharstat                              0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysnumstat                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysnvarcharstat                           0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysprocbin                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysproccolumns                          202    8.6K    38    51    43                  202    1.0     1.0
+PUB._Sysprocedures                            12  742.0B    54    70    61                   12    1.0     1.0
+PUB._Sysproctext                               0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysrealstat                               0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysrefconstrs                             0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysroles                                  0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysschemas                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysseqauth                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syssmintstat                              0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syssynonyms                               0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Systabauth                              145    8.2K    44    74    58                  145    1.0     2.0
+PUB._Systblconstrs                             0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Systblstat                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Systimestat                               0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Systinyintstat                            0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Systrigcols                               0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Systrigger                                0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Systsstat                                 0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Syststzstat                               0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysvarcharstat                            0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Sysviews                                 51    7.1K    69  1204   141                   52    1.0     1.0
+PUB._Sysviews_Name_Map                         0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Tenant                                    0    0.0B     0     0     0                    0    0.0     0.0
+PUB._User                                      0    0.0B     0     0     0                    0    0.0     0.0
+PUB._View                                      0    0.0B     0     0     0                    0    0.0     0.0
+PUB._View-Col                                  0    0.0B     0     0     0                    0    0.0     0.0
+PUB._View-Ref                                  0    0.0B     0     0     0                    0    0.0     0.0
+PUB._Word-rule                                 0    0.0B     0     0     0                    0    0.0     0.0
+
+                                 -----------------------------------------------------------------------------
+Subtotals:                                  3538  790.9K     6  3200   228                 3850    1.1     3.3
+
+
+
+
+                                 -----------------------------------------------------------------------------
+Summary for AREA "Schema Area": 6
+Subtotals:                                  3538  790.9K     6  3200   228                 3850    1.1     3.3
+
+
+
+
+
+RECORD BLOCK SUMMARY FOR AREA "Employee": 7
+-------------------------------------------------------
+
+
+RECORD BLOCK SUMMARY FOR SHARED TABLES
+--------------------------------------------
+
+
+                                                           -Record Size (B)-           ---Fragments--- Scatter
+Table                                    Records    Size   Min   Max  Mean                Count Factor  Factor
+PUB.Benefits                                  21  848.0B    39    41    40                   21    1.0     1.0
+PUB.Department                                 7  211.0B    26    35    30                    7    1.0     2.0
+PUB.Employee                                  55    6.2K    99   135   115                   55    1.0     1.0
+PUB.Family                                    72    3.1K    38    51    44                   72    1.0     1.0
+PUB.TimeSheet                                 25    1.1K    42    45    43                   25    1.0     1.0
+PUB.Vacation                                  12  288.0B    24    24    24                   12    1.0     1.0
+
+                                 -----------------------------------------------------------------------------
+Subtotals:                                   192   11.7K    24   135    62                  192    1.0     1.2
+
+
+
+
+                                 -----------------------------------------------------------------------------
+Summary for AREA "Employee": 7
+Subtotals:                                   192   11.7K    24   135    62                  192    1.0     1.2
+
+
+
+
+
+RECORD BLOCK SUMMARY FOR AREA "Inventory": 8
+-------------------------------------------------------
+
+
+RECORD BLOCK SUMMARY FOR SHARED TABLES
+--------------------------------------------
+
+
+                                                           -Record Size (B)-           ---Fragments--- Scatter
+Table                                    Records    Size   Min   Max  Mean                Count Factor  Factor
+PUB.Bin                                      770   26.2K    33    35    34                  770    1.0     1.0
+PUB.InventoryTrans                            75    3.6K    43    51    48                   75    1.0     1.0
+PUB.Item                                      55    7.6K   103   233   141                   55    1.0     1.0
+PUB.POLine                                  5337  217.5K    40    44    41                 5337    1.0     1.0
+PUB.PurchaseOrder                           2129   68.6K    33    36    33                 2129    1.0     1.0
+PUB.Supplier                                  10    1.1K    92   164   117                   10    1.0     1.0
+PUB.SupplierItemXref                          56    1.1K    18    20    19                   56    1.0     1.0
+PUB.Warehouse                                 14    1.3K    82   104    92                   14    1.0     1.0
+
+                                 -----------------------------------------------------------------------------
+Subtotals:                                  8446  327.0K    18   233    39                 8446    1.0     1.1
+
+
+
+
+                                 -----------------------------------------------------------------------------
+Summary for AREA "Inventory": 8
+Subtotals:                                  8446  327.0K    18   233    39                 8446    1.0     1.1
+
+
+
+
+
+RECORD BLOCK SUMMARY FOR AREA "Cust_Data": 9
+-------------------------------------------------------
+
+
+RECORD BLOCK SUMMARY FOR SHARED TABLES
+--------------------------------------------
+
+
+                                                           -Record Size (B)-           ---Fragments--- Scatter
+Table                                    Records    Size   Min   Max  Mean                Count Factor  Factor
+PUB.Customer                                1117  147.1K    98   225   134                 1117    1.0     1.0
+
+                                 -----------------------------------------------------------------------------
+Subtotals:                                  1117  147.1K    98   225   134                 1117    1.0     1.0
+
+
+
+
+                                 -----------------------------------------------------------------------------
+Summary for AREA "Cust_Data": 9
+Subtotals:                                  1117  147.1K    98   225   134                 1117    1.0     1.0
+
+
+
+
+
+RECORD BLOCK SUMMARY FOR AREA "Cust_Index": 10
+-------------------------------------------------------
+
+                                 -----------------------------------------------------------------------------
+Summary for AREA "Cust_Index": 10
+Subtotals:                                     0    0.0B     0     0     0                    0    0.0     1.0
+
+
+
+
+
+RECORD BLOCK SUMMARY FOR AREA "Order": 11
+-------------------------------------------------------
+
+
+RECORD BLOCK SUMMARY FOR SHARED TABLES
+--------------------------------------------
+
+
+                                                           -Record Size (B)-           ---Fragments--- Scatter
+Table                                    Records    Size   Min   Max  Mean                Count Factor  Factor
+PUB.BillTo                                     2  221.0B   110   111   110                    2    1.0     1.0
+PUB.Order                                   3953  350.5K    72   147    90                 3953    1.0     1.0
+PUB.OrderLine                              13970  590.8K    40    45    43                13970    1.0     1.0
+PUB.ShipTo                                     3  311.0B    89   124   103                    3    1.0     1.0
+
+                                 -----------------------------------------------------------------------------
+Subtotals:                                 17928  941.9K    40   147    53                17928    1.0     1.1
+
+
+
+
+                                 -----------------------------------------------------------------------------
+Summary for AREA "Order": 11
+Subtotals:                                 17928  941.9K    40   147    53                17928    1.0     1.1
+
+
+
+
+
+RECORD BLOCK SUMMARY FOR AREA "Misc": 12
+-------------------------------------------------------
+
+
+RECORD BLOCK SUMMARY FOR SHARED TABLES
+--------------------------------------------
+
+
+                                                           -Record Size (B)-           ---Fragments--- Scatter
+Table                                    Records    Size   Min   Max  Mean                Count Factor  Factor
+PUB.Feedback                                   8    1.0K   105   149   129                    8    1.0     1.0
+PUB.Invoice                                  147    5.5K    32    45    38                  147    1.0     1.6
+PUB.LocalDefault                              10  724.0B    57    84    72                   10    1.0     1.0
+PUB.RefCall                                   13    2.4K    81   328   190                   13    1.0     1.0
+PUB.Salesrep                                   9  746.0B    79    87    82                    9    1.0     1.0
+PUB.State                                     51    1.7K    29    40    34                   51    1.0     1.0
+
+                                 -----------------------------------------------------------------------------
+Subtotals:                                   238   12.1K    29   328    51                  238    1.0     1.3
+
+
+
+
+                                 -----------------------------------------------------------------------------
+Summary for AREA "Misc": 12
+Subtotals:                                   238   12.1K    29   328    51                  238    1.0     1.3
+
+
+
+
+                                 -----------------------------------------------------------------------------
+Totals:                                    31483    2.2M     6  3200    72                31795    1.0     2.6
+
+
+
+1103 RM block(s) found in the database.
+52.35% of the RM block space is used.
+
+
+
+
+
+
+                              INDEX BLOCK SUMMARY
+
+
+INDEX BLOCK SUMMARY FOR AREA "Control Area": 1
+-------------------------------------------------------
+
+
+INDEX BLOCK SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+Table                      Index  Fields Levels         Blocks    Size  % Util  Factor
+PUB._Area
+  _Area-Number              1027       1      1              1   88.0B     2.2     1.0
+PUB._AreaExtent
+  _AreaExtent-Area          1028       2      1              1  160.0B     3.9     1.0
+
+                    ------------------------------------------------------------------
+Subtotals:                                                   2  248.0B     3.0     0.0
+
+
+
+
+INDEX BLOCK SUMMARY FOR AREA "Schema Area": 6
+-------------------------------------------------------
+
+
+INDEX BLOCK SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+Table                      Index  Fields Levels         Blocks    Size  % Util  Factor
+PUB.InventoryTrans
+  default                     58       0      1              1   74.0B     1.8     1.0
+PUB._Client-Session
+  _Auth-time                1083       1      1              1    3.0B     0.1     1.0
+  _Db-guid                  1084       1      1              1    3.0B     0.1     1.0
+  _Session-uuid             1085       1      1              1    3.0B     0.1     1.0
+  _Userid                   1082       1      1              1    3.0B     0.1     1.0
+PUB._Codepage
+  _Codepage-Name            1089       2      1              1    3.0B     0.1     1.0
+  _Codepage-Seq             1090       1      1              1    3.0B     0.1     1.0
+PUB._Collation
+  _Collation-Name           1091       3      1              1    3.0B     0.1     1.0
+  _Collation-Seq            1092       1      1              1    3.0B     0.1     1.0
+PUB._Constraint
+  _Con-dependency          -1604       4      1              1    3.0B     0.1     1.0
+  _Con-Migrate             -1602       4      1              1    3.0B     0.1     1.0
+  _Con-Migration-Seq       -1603       5      1              1    3.0B     0.1     1.0
+  _Con-Num                 -1600       2      1              1    3.0B     0.1     1.0
+  _Con-Present             -1601       4      1              1    3.0B     0.1     1.0
+PUB._Constraint-Keys
+  _Con-Key-Ord             -1610       3      1              1    3.0B     0.1     1.0
+PUB._Db
+  _Database                 1023       1      1              1   17.0B     0.4     1.0
+PUB._Db-Detail
+  _Db-guid                  1086       1      1              1   37.0B     0.9     1.0
+PUB._Db-Option
+  _Option-code              1088       3      1              1  158.0B     3.9     1.0
+PUB._Field
+  _Field-Name                  3       2      2             11   29.2K    66.8     1.7
+  _Field-Position              4       2      2              7   17.6K    63.4     1.7
+  _Fieldphyspos             1087       2      2              8   17.5K    55.2     1.9
+  _File/Field                  2       2      2             13   28.5K    55.2     1.9
+PUB._Field-Trig
+  _Field-Trig-DBK           1020       1      1              1    3.0B     0.1     1.0
+  _Field-Trig-Rpos          1021       3      1              1    3.0B     0.1     1.0
+PUB._File
+  _Db/File                  1022       3      2              3    4.0K    34.0     2.3
+  _Dump-Name                1024       3      1              1    1.5K    38.0     1.0
+  _File-Name                   1       1      1              1    2.9K    72.1     1.0
+  _File-Number              1032       1      1              1    1.7K    43.8     1.0
+PUB._File-Trig
+  _File-Trig                1000       2      1              1  317.0B     7.8     1.0
+PUB._Index
+  _File/Index                  5       2      2              3    4.5K    37.4     2.3
+  _Index-Name                999       1      1              1    3.2K    81.1     1.0
+  _Index-Number             1033       1      1              1    2.0K    50.7     1.0
+PUB._Index-Field
+  _Field                       7       1      1              1    3.4K    86.1     1.0
+  _Index/Number                6       2      2              3    4.2K    35.3     2.3
+PUB._KeyEvent
+  _KeyEvent-Date           -1316       1      1              1    3.0B     0.1     1.0
+  _KeyEvent-MsgId          -1317       1      1              1    3.0B     0.1     1.0
+  _KeyEvent-Usrnum         -1318       1      1              1    3.0B     0.1     1.0
+PUB._Partition-Set
+  _Partition-Set-Name      -1531       1      1              1    3.0B     0.1     1.0
+  _Partition-Set-Object    -1530       3      1              1    3.0B     0.1     1.0
+  _Partition-Set-Type      -1532       1      1              1    3.0B     0.1     1.0
+PUB._Partition-Set-Detail
+  _Partition-Set-Object    -1534       5      1              1    3.0B     0.1     1.0
+  _Partition-Set-Tenant    -1535       1      1              1    3.0B     0.1     1.0
+  _Partition-SetId         -1533       5      1              1    3.0B     0.1     1.0
+PUB._sec-authentication-domain
+  _Domain-description      -1313       1      1              1  364.0B     8.9     1.0
+  _Domain-enabled          -1314       1      1              1   21.0B     0.5     1.0
+  _Domain-Id               -1298       1      1              1   52.0B     1.3     1.0
+  _Domain-name             -1312       1      1              1   64.0B     1.6     1.0
+  _Domain-type             -1315       1      1              1   44.0B     1.1     1.0
+  _Tenant-Name             -1299       1      1              1   21.0B     0.5     1.0
+PUB._sec-authentication-system
+  _Domain-type             -1309       1      1              1   55.0B     1.4     1.0
+  _Domain-type-description -1310       1      1              1  101.0B     2.5     1.0
+  _PAM-module-name         -1311       1      1              1   19.0B     0.5     1.0
+PUB._sec-granted-role
+  _Granted-role-guid       -1303       1      1              1    3.0B     0.1     1.0
+  _Grantee                 -1304       3      1              1    3.0B     0.1     1.0
+  _Grantor                 -1305       1      1              1    3.0B     0.1     1.0
+  _Role-name               -1306       1      1              1    3.0B     0.1     1.0
+PUB._sec-granted-role-condition
+  _Conditional-attribute   -1308       1      1              1    3.0B     0.1     1.0
+  _Granted-role-guid       -1307       4      1              1    3.0B     0.1     1.0
+PUB._sec-role
+  _Role-creator            -1301       1      1              1    3.0B     0.1     1.0
+  _Role-description        -1302       1      1              1    3.0B     0.1     1.0
+  _Role-name               -1300       1      1              1    3.0B     0.1     1.0
+PUB._Sequence
+  _Seq-Name                 1025       2      1              1  207.0B     5.1     1.0
+PUB._SQL_Properties
+  _Idxsqlproperties         1081       1      1              1    3.0B     0.1     1.0
+PUB._StorageObject
+  _Object-Area-Number      -1591       1      1              1  303.0B     7.4     1.0
+  _Object-Id                1026       5      1              1    3.6K    91.1     1.0
+  _Object-PartitionId      -1590       1      1              1  205.0B     5.0     1.0
+PUB._Sysautostats
+  _Sysautostats-Policy     -1560       3      1              1    3.0B     0.1     1.0
+  _Sysautostats-Table      -1561       2      1              1    3.0B     0.1     1.0
+PUB._Sysbigintstat
+  _Idxsysbigintstat         1063       5      1              1    3.0B     0.1     1.0
+PUB._Syscalctable
+  _Idxsyscalctable          1070       1      1              1   17.0B     0.4     1.0
+PUB._Syscharstat
+  _Idxsyscharstat           1046       5      1              1    3.0B     0.1     1.0
+PUB._Syschkcolusage
+  _Idxchkcolcolusage        1041       3      1              1    3.0B     0.1     1.0
+  _Idxchkcolusage           1039       3      1              1    3.0B     0.1     1.0
+PUB._Syschkconstrs
+  _Idxchkconstrs            1038       3      1              1    3.0B     0.1     1.0
+PUB._Syschkconstr_Name_Map
+  _Idxsyschkconstrnmmap     1078       4      1              1    3.0B     0.1     1.0
+PUB._Syscolauth
+  _Idxsyscolauth            1059       5      1              1    3.0B     0.1     1.0
+PUB._Syscolstat
+  _Idxsyscolstat            1045       5      1              1    3.0B     0.1     1.0
+PUB._Sysdatatypes
+  _Idxsysdatatypes          1069       1      1              1  161.0B     4.0     1.0
+PUB._Sysdatestat
+  _Idxsysdatestat           1047       5      1              1    3.0B     0.1     1.0
+PUB._Sysdbauth
+  _Idxsysdbauth             1066       2      1              1   43.0B     1.1     1.0
+PUB._Sysfloatstat
+  _Idxsysfloatstat          1058       5      1              1    3.0B     0.1     1.0
+PUB._Sysidxstat
+  _Idxsysidxstat            1044       5      1              1    3.0B     0.1     1.0
+PUB._Sysintstat
+  _Idxsysintstat            1048       5      1              1    3.0B     0.1     1.0
+PUB._Syskeycolusage
+  _Idxkeycolusage           1037       4      1              1    3.0B     0.1     1.0
+PUB._Sysncharstat
+  _Idxsysncharstat          1056       5      1              1    3.0B     0.1     1.0
+PUB._Sysnumstat
+  _Idxsysnumstat            1050       5      1              1    3.0B     0.1     1.0
+PUB._Sysnvarcharstat
+  _Idxsysnvarcharstat       1057       5      1              1    3.0B     0.1     1.0
+PUB._Sysprocbin
+  _Idxsysprocbin            1064       2      1              1    3.0B     0.1     1.0
+PUB._Sysproccolumns
+  _Idxsysproccolumns        1072       1      1              1  309.0B     7.6     1.0
+PUB._Sysprocedures
+  _Idxsysprocedures         1065       1      1              1  178.0B     4.4     1.0
+PUB._Sysproctext
+  _Idxsysproctext           1074       1      1              1    3.0B     0.1     1.0
+PUB._Sysrealstat
+  _Idxsysrealstat           1052       5      1              1    3.0B     0.1     1.0
+PUB._Sysrefconstrs
+  _Idxrefcnstrsref          1042       3      1              1    3.0B     0.1     1.0
+  _Idxrefconstrs            1040       3      1              1    3.0B     0.1     1.0
+PUB._Sysroles
+  _Idxsysroles              1079       3      1              1    3.0B     0.1     1.0
+PUB._Sysschemas
+  _Idxsysschemas            1080       2      1              1    3.0B     0.1     1.0
+PUB._Sysseqauth
+  _Idxsysseqauth            1076       4      1              1    3.0B     0.1     1.0
+PUB._Syssmintstat
+  _Idxsyssmintstat          1051       5      1              1    3.0B     0.1     1.0
+PUB._Syssynonyms
+  _Sysprvsynidx             1034       3      1              1    3.0B     0.1     1.0
+  _Syspubsynidx             1035       1      1              1    3.0B     0.1     1.0
+PUB._Systabauth
+  _Idxsystabauth            1060       6      2              3    5.1K    42.4     2.2
+PUB._Systblconstrs
+  _Idxtblconstrs            1036       3      1              1    3.0B     0.1     1.0
+PUB._Systblstat
+  _Idxsystblstat            1043       4      1              1    3.0B     0.1     1.0
+PUB._Systimestat
+  _Idxsystimestat           1053       5      1              1    3.0B     0.1     1.0
+PUB._Systinyintstat
+  _Idxsystinyintstat        1062       5      1              1    3.0B     0.1     1.0
+PUB._Systrigcols
+  _Idxsystrigcols           1073       1      1              1    3.0B     0.1     1.0
+PUB._Systrigger
+  _Idxsystrigger            1067       1      1              1    3.0B     0.1     1.0
+PUB._Systsstat
+  _Idxsystsstat             1054       5      1              1    3.0B     0.1     1.0
+PUB._Syststzstat
+  _Idxsyststzstat           1075       5      1              1    3.0B     0.1     1.0
+PUB._Sysvarcharstat
+  _Idxsysvarcharstat        1055       5      1              1    3.0B     0.1     1.0
+PUB._Sysviews
+  _Viewidx                  1031       3      1              1  908.0B    22.3     1.0
+PUB._Sysviews_Name_Map
+  _Idxsysviewsnmmap         1077       3      1              1    3.0B     0.1     1.0
+PUB._Tenant
+  _Tenant-Name             -1500       1      1              1    3.0B     0.1     1.0
+  _TenantId                -1501       1      1              1    3.0B     0.1     1.0
+PUB._User
+  _User-domain-name        -1581       3      1              1    3.0B     0.1     1.0
+  _User-sql-only-user      -1580       1      1              1    3.0B     0.1     1.0
+  _Userid                      0       2      1              1    3.0B     0.1     1.0
+PUB._View
+  _View-Name                 994       1      1              1    3.0B     0.1     1.0
+PUB._View-Col
+  _Vcol-Position             996       2      1              1    3.0B     0.1     1.0
+  _View-Col                  995       2      1              1    3.0B     0.1     1.0
+PUB._View-Ref
+  _View-Ref                  997       2      1              1    3.0B     0.1     1.0
+  _Vref-View                 998       1      1              1    3.0B     0.1     1.0
+PUB._Word-rule
+  _Wr-Number                1093       2      1              1    3.0B     0.1     1.0
+
+                    ------------------------------------------------------------------
+Subtotals:                                                 166  132.8K    20.1     0.4
+
+
+
+
+INDEX BLOCK SUMMARY FOR AREA "Employee": 7
+-------------------------------------------------------
+
+
+INDEX BLOCK SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+Table                      Index  Fields Levels         Blocks    Size  % Util  Factor
+PUB.Benefits
+  EmpNo                       44       1      1              1  197.0B     4.8     1.0
+PUB.Department
+  DeptCode                    43       1      1              1   84.0B     2.1     1.0
+PUB.Employee
+  DeptCode                    38       1      1              1  132.0B     3.2     1.0
+  EmpNo                       37       1      1              1  503.0B    12.4     1.0
+  Name                        39       2      1              1    1.0K    25.5     1.0
+PUB.Family
+  EmpNoRelativeName           42       2      1              1    1.4K    36.4     1.0
+PUB.TimeSheet
+  EmpNoDayRecorded            40       2      1              1  293.0B     7.2     1.0
+PUB.Vacation
+  EmpNoStartDate              41       2      1              1  152.0B     3.7     1.0
+
+                    ------------------------------------------------------------------
+Subtotals:                                                   8    3.8K    11.9     0.0
+
+
+
+
+INDEX BLOCK SUMMARY FOR AREA "Inventory": 8
+-------------------------------------------------------
+
+
+INDEX BLOCK SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+Table                      Index  Fields Levels         Blocks    Size  % Util  Factor
+PUB.Bin
+  BinNum                      55       1      2              3    6.8K    57.1     1.9
+  ItemNum                     56       1      1              1    1.9K    48.5     1.0
+  WarehouseNumItemNum         57       2      2              3    6.8K    57.4     1.9
+PUB.Item
+  CatDescription              18       1      2              3    4.1K    34.5     2.3
+  Category2ItemName           19       2      1              1  958.0B    23.5     1.0
+  CategoryItemName            20       2      1              1    1.0K    26.1     1.0
+  ItemName                    21       1      1              1  934.0B    23.0     1.0
+  ItemNum                     17       1      1              1  503.0B    12.4     1.0
+PUB.POLine
+  PONumLinenum                60       2      2             14   51.3K    92.3     1.2
+PUB.PurchaseOrder
+  PONum                       59       1      2              6   18.8K    78.9     1.4
+PUB.Supplier
+  SupplierID                  52       1      1              1   97.0B     2.4     1.0
+PUB.SupplierItemXref
+  ItemNumSupplierID           62       2      1              1  624.0B    15.3     1.0
+  SupplieridItemNum           61       2      1              1  542.0B    13.3     1.0
+PUB.Warehouse
+  warehousename               54       1      1              1  307.0B     7.5     1.0
+  warehousenum                53       1      1              1  133.0B     3.3     1.0
+
+                    ------------------------------------------------------------------
+Subtotals:                                                  39   94.9K    61.2     0.2
+
+
+
+
+INDEX BLOCK SUMMARY FOR AREA "Cust_Data": 9
+-------------------------------------------------------
+
+
+INDEX BLOCK SUMMARY FOR AREA "Cust_Index": 10
+-------------------------------------------------------
+
+
+INDEX BLOCK SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+Table                      Index  Fields Levels         Blocks    Size  % Util  Factor
+PUB.Customer
+  Comments                    13       1      1              1  902.0B    22.2     1.0
+  CountryPost                 14       2      2              4    9.0K    56.5     1.9
+  CustNum                     12       1      2              4    9.9K    62.2     1.8
+  Name                        15       1      2              9   22.5K    62.9     1.7
+  SalesRep                    16       1      1              1    1.3K    33.4     1.0
+
+                    ------------------------------------------------------------------
+Subtotals:                                                  19   43.6K    57.7     0.1
+
+
+
+
+INDEX BLOCK SUMMARY FOR AREA "Order": 11
+-------------------------------------------------------
+
+
+INDEX BLOCK SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+Table                      Index  Fields Levels         Blocks    Size  % Util  Factor
+PUB.BillTo
+  custnumbillto               46       2      1              1   27.0B     0.7     1.0
+PUB.Order
+  CustOrder                   48       2      2             12   38.6K    80.9     1.4
+  OrderDate                   49       1      2              5   13.9K    70.0     1.6
+  OrderNum                    47       1      2             10   34.9K    87.9     1.2
+  OrderStatus                 50       1      1              1    1.5K    36.5     1.0
+  SalesRep                    51       1      2              3    4.4K    37.2     2.3
+PUB.OrderLine
+  itemnum                     23       1      2              9   26.8K    75.1     1.5
+  orderline                   22       2      2             34  131.1K    97.0     1.1
+  OrderLineStatus             24       1      2              3    4.2K    35.5     2.3
+PUB.ShipTo
+  custnumshipto               45       2      1              1   36.0B     0.9     1.0
+
+                    ------------------------------------------------------------------
+Subtotals:                                                  79  255.5K    81.4     0.6
+
+
+
+
+INDEX BLOCK SUMMARY FOR AREA "Misc": 12
+-------------------------------------------------------
+
+
+INDEX BLOCK SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+Table                      Index  Fields Levels         Blocks    Size  % Util  Factor
+PUB.Feedback
+  Comments                    33       1      1              1  592.0B    14.6     1.0
+  Company                     34       1      1              1  244.0B     6.0     1.0
+  Contact                     35       1      1              1  189.0B     4.6     1.0
+  Department                  32       1      1              1  122.0B     3.0     1.0
+  Rating                      36       1      1              1   39.0B     1.0     1.0
+PUB.Invoice
+  CustNum                      9       1      1              1  719.0B    17.7     1.0
+  InvoiceDate                 10       1      1              1  998.0B    24.5     1.0
+  InvoiceNum                   8       1      1              1    1.3K    32.7     1.0
+  OrderNum                    11       1      1              1    1.3K    32.7     1.0
+PUB.LocalDefault
+  localdefnum                 27       1      1              1   97.0B     2.4     1.0
+PUB.RefCall
+  CallNum                     28       1      1              1  130.0B     3.2     1.0
+  CustNum                     29       2      1              1  171.0B     4.2     1.0
+  Sibling                     30       2      1              1  180.0B     4.4     1.0
+  Txt                         31       1      1              1    2.2K    55.1     1.0
+PUB.Salesrep
+  SalesRep                    25       1      1              1  105.0B     2.6     1.0
+PUB.State
+  State                       26       1      1              1  485.0B    11.9     1.0
+
+                    ------------------------------------------------------------------
+Subtotals:                                                  16    8.8K    13.8     0.0
+
+
+
+                    ------------------------------------------------------------------
+Totals:                                                    329  539.5K    41.3    0.0
+
+
+
+329 index block(s) found in the database.
+41.27% of the index block space is used.
+
+
+
+
+
+
+                             DATABASE SUMMARY
+
+
+SUMMARY FOR AREA "Control Area": 1
+-------------------------------------------------------
+
+
+SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+                             Records              Indexes            Combined
+NAME                        Size  Tot %         Size  Tot %         Size  Tot %
+PUB._Area                 394.0B    0.0        88.0B    0.0       482.0B    0.0
+PUB._AreaExtent           567.0B    0.0       160.0B    0.0       727.0B    0.0
+
+
+SUMMARY FOR AREA "Schema Area": 6
+-------------------------------------------------------
+
+
+SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+                             Records              Indexes            Combined
+NAME                        Size  Tot %         Size  Tot %         Size  Tot %
+PUB.InventoryTrans          0.0B    0.0        74.0B    0.0        74.0B    0.0
+PUB._Client-Session
+                            0.0B    0.0        12.0B    0.0        12.0B    0.0
+PUB._Codepage               0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._Collation              0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._Constraint             0.0B    0.0        15.0B    0.0        15.0B    0.0
+PUB._Constraint-Keys
+                            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Db                     1.1K    0.0        17.0B    0.0         1.2K    0.0
+PUB._Db-Detail             41.0B    0.0        37.0B    0.0        78.0B    0.0
+PUB._Db-Option            459.0B    0.0       158.0B    0.0       617.0B    0.0
+PUB._Field                572.3K   20.7        92.8K    3.3       665.1K   24.0
+PUB._Field-Trig             0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._File                  71.2K    2.6        10.2K    0.4        81.4K    2.9
+PUB._File-Trig            866.0B    0.0       317.0B    0.0         1.2K    0.0
+PUB._Index                 39.9K    1.4         9.7K    0.3        49.6K    1.8
+PUB._Index-Field           63.3K    2.3         7.6K    0.3        70.9K    2.6
+PUB._KeyEvent               0.0B    0.0         9.0B    0.0         9.0B    0.0
+PUB._Partition-Set          0.0B    0.0         9.0B    0.0         9.0B    0.0
+PUB._Partition-Set-Detail
+                            0.0B    0.0         9.0B    0.0         9.0B    0.0
+PUB._sec-authentication-domain
+                          702.0B    0.0       566.0B    0.0         1.2K    0.0
+PUB._sec-authentication-system
+                          198.0B    0.0       175.0B    0.0       373.0B    0.0
+PUB._sec-granted-role
+                            0.0B    0.0        12.0B    0.0        12.0B    0.0
+PUB._sec-granted-role-condition
+                            0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._sec-role               0.0B    0.0         9.0B    0.0         9.0B    0.0
+PUB._Sequence               1.6K    0.1       207.0B    0.0         1.8K    0.1
+PUB._SQL_Properties
+                            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._StorageObject         13.9K    0.5         4.1K    0.1        18.0K    0.7
+PUB._Sysautostats           0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._Sysbigintstat          0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syscalctable           6.0B    0.0        17.0B    0.0        23.0B    0.0
+PUB._Syscharstat            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syschkcolusage
+                            0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._Syschkconstrs          0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syschkconstr_Name_Map
+                            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syscolauth             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syscolstat             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysdatatypes         561.0B    0.0       161.0B    0.0       722.0B    0.0
+PUB._Sysdatestat            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysdbauth             38.0B    0.0        43.0B    0.0        81.0B    0.0
+PUB._Sysfloatstat           0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysidxstat             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysintstat             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syskeycolusage
+                            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysncharstat           0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysnumstat             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysnvarcharstat
+                            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysprocbin             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysproccolumns
+                            8.6K    0.3       309.0B    0.0         8.9K    0.3
+PUB._Sysprocedures        742.0B    0.0       178.0B    0.0       920.0B    0.0
+PUB._Sysproctext            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysrealstat            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysrefconstrs          0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._Sysroles               0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysschemas             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysseqauth             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syssmintstat           0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syssynonyms            0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._Systabauth             8.2K    0.3         5.1K    0.2        13.3K    0.5
+PUB._Systblconstrs          0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Systblstat             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Systimestat            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Systinyintstat
+                            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Systrigcols            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Systrigger             0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Systsstat              0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Syststzstat            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysvarcharstat
+                            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Sysviews               7.1K    0.3       908.0B    0.0         8.0K    0.3
+PUB._Sysviews_Name_Map
+                            0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._Tenant                 0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._User                   0.0B    0.0         9.0B    0.0         9.0B    0.0
+PUB._View                   0.0B    0.0         3.0B    0.0         3.0B    0.0
+PUB._View-Col               0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._View-Ref               0.0B    0.0         6.0B    0.0         6.0B    0.0
+PUB._Word-rule              0.0B    0.0         3.0B    0.0         3.0B    0.0
+
+
+SUMMARY FOR AREA "Employee": 7
+-------------------------------------------------------
+
+
+SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+                             Records              Indexes            Combined
+NAME                        Size  Tot %         Size  Tot %         Size  Tot %
+PUB.Benefits              848.0B    0.0       197.0B    0.0         1.0K    0.0
+PUB.Department            211.0B    0.0        84.0B    0.0       295.0B    0.0
+PUB.Employee                6.2K    0.2         1.6K    0.1         7.8K    0.3
+PUB.Family                  3.1K    0.1         1.4K    0.1         4.6K    0.2
+PUB.TimeSheet               1.1K    0.0       293.0B    0.0         1.3K    0.0
+PUB.Vacation              288.0B    0.0       152.0B    0.0       440.0B    0.0
+
+
+SUMMARY FOR AREA "Inventory": 8
+-------------------------------------------------------
+
+
+SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+                             Records              Indexes            Combined
+NAME                        Size  Tot %         Size  Tot %         Size  Tot %
+PUB.Bin                    26.2K    0.9        15.6K    0.6        41.8K    1.5
+PUB.InventoryTrans          3.6K    0.1         0.0B    0.0         3.6K    0.1
+PUB.Item                    7.6K    0.3         7.5K    0.3        15.1K    0.5
+PUB.POLine                217.5K    7.8        51.3K    1.9       268.8K    9.7
+PUB.PurchaseOrder          68.6K    2.5        18.8K    0.7        87.4K    3.2
+PUB.Supplier                1.1K    0.0        97.0B    0.0         1.2K    0.0
+PUB.SupplierItemXref
+                            1.1K    0.0         1.1K    0.0         2.2K    0.1
+PUB.Warehouse               1.3K    0.0       440.0B    0.0         1.7K    0.1
+
+
+SUMMARY FOR AREA "Cust_Data": 9
+-------------------------------------------------------
+
+
+SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+                             Records              Indexes            Combined
+NAME                        Size  Tot %         Size  Tot %         Size  Tot %
+PUB.Customer              147.1K    5.3         0.0B    0.0       147.1K    5.3
+
+
+SUMMARY FOR AREA "Cust_Index": 10
+-------------------------------------------------------
+
+
+SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+                             Records              Indexes            Combined
+NAME                        Size  Tot %         Size  Tot %         Size  Tot %
+PUB.Customer                0.0B    0.0        43.6K    1.6        43.6K    1.6
+
+
+SUMMARY FOR AREA "Order": 11
+-------------------------------------------------------
+
+
+SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+                             Records              Indexes            Combined
+NAME                        Size  Tot %         Size  Tot %         Size  Tot %
+PUB.BillTo                221.0B    0.0        27.0B    0.0       248.0B    0.0
+PUB.Order                 350.5K   12.7        93.3K    3.4       443.8K   16.0
+PUB.OrderLine             590.8K   21.3       162.2K    5.9       753.0K   27.2
+PUB.ShipTo                311.0B    0.0        36.0B    0.0       347.0B    0.0
+
+
+SUMMARY FOR AREA "Misc": 12
+-------------------------------------------------------
+
+
+SUMMARY FOR SHARED OBJECTS:
+--------------------------------------------
+                             Records              Indexes            Combined
+NAME                        Size  Tot %         Size  Tot %         Size  Tot %
+PUB.Feedback                1.0K    0.0         1.2K    0.0         2.2K    0.1
+PUB.Invoice                 5.5K    0.2         4.3K    0.2         9.8K    0.4
+PUB.LocalDefault          724.0B    0.0        97.0B    0.0       821.0B    0.0
+PUB.RefCall                 2.4K    0.1         2.7K    0.1         5.1K    0.2
+PUB.Salesrep              746.0B    0.0       105.0B    0.0       851.0B    0.0
+PUB.State                   1.7K    0.1       485.0B    0.0         2.2K    0.1
+
+                    -----------------------------------------------------------
+Total                       2.2M   80.5       539.5K   19.5         2.7M  100.0
+
+Size key:
+ B = bytes
+ K = kilobytes
+ M = megabytes
+ G = gigabytes
+ T = terabytes
+
+
+
+DATABASE BLOCK ANALYSIS:
+-----------------------
+
+1 master block(s) found in the database.
+
+6 area block(s) found in the database.
+
+1 control block(s) found in the database.
+
+8 object block(s) found in the database.
+
+0 free block(s) found in the database.
+
+1 sequence block(s) found in the database.
+
+305 empty block(s) found in the database.
+
+1754 total blocks found in the database.
+
+Database analysis complete Tue Jul  7 17:05:43 2015
+
