@@ -27,4 +27,14 @@ then FileBase = session:icfparam.
 
 if not session:batch-mode then update FileBase.
 run tables_treemap.p(FileBase).
+ 
+if num-dbs = 1 and search("advisor.p") > ""
+then do:
+    /*
+    run the advisor if it is available and there is a db connected 
+    the advisor.p can be found on http://www.progresstalk.com/threads/how-much-free-information-is-too-much.140432/page-2
+    */
+    run advisor.p (subst("&1.dbana", FileBase), subst("&1.advisor.html", FileBase), "", 0).
+end.
+
 if session:batch-mode then quit.
