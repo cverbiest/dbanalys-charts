@@ -8,16 +8,9 @@
 
 */
 
-def var FileBase as character form "x(65)" initial "sample/sports2000".
-def var InputFileName as character  form "x(65)" initial "sample/sports2000.tab.txt".
-def var OutputFileName as character form "x(65)" initial "sample/sports2000.tab.html".
-
-if session:icfparam > ""
-then FileBase = session:icfparam.
-update FileBase.
-InputFileName = subst("&1.tab.txt", FileBase).
-OutputFileName = subst("&1.tab.html", FileBase).
-
+def input param FileBase as character no-undo.
+def var InputFileName as character no-undo.
+def var OutputFileName as character no-undo.
 def var AreaList as char no-undo.
 def var Area as char.
 def var Partition as char.
@@ -26,10 +19,14 @@ def var TableName as char.
 def stream sOut.
 def var reader as TextFileReader no-undo.
 
+InputFileName = subst("&1.tab.txt", FileBase).
+OutputFileName = subst("&1.tab.html", FileBase).
+
 reader = new TextFileReader(InputFileName).
 reader:ReadHeader().
-message reader:HeaderRow[1] .
-copy-lob from file "treemap_head.html" to file OutputFileName.
+if reader:HeaderRow[1] ne "Time Stamp"
+then undo, throw new progress.lang.apperror(substitute("Header row now found in &1, expected &2 but found &3", InputFileName, "Time Stamp",  reader:HeaderRow[1], 0)).
+copy-lob from file "templates/treemap_head.html" to file OutputFileName.
 output stream sOut to value(OutputFileName) append.
 put stream sOut unformatted "          ['Global', null, 0, 0, 0]," skip.
 
@@ -50,5 +47,5 @@ repeat while reader:ReadRow():
     end.
 end.
 output stream sOut close.
-copy-lob from file "treemap_tail.html" to file OutputFileName append.
-
+copy-lob from file "templates/treemap_tail.html" to file OutputFileName append.
+message substitute("Created &1", OutputFileName).
