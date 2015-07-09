@@ -8,15 +8,20 @@
 
 */
 
-def var FileBase as character initial "LISA". /* sample/sports2000 */
-def var InputFileName as character initial "sample/sports2000.tab.txt".
-def var OutputFileName as character initial "sample/sports2000.tab.html".
+def var FileBase as character form "x(65)" initial "sample/sports2000".
+def var InputFileName as character  form "x(65)" initial "sample/sports2000.tab.txt".
+def var OutputFileName as character form "x(65)" initial "sample/sports2000.tab.html".
 
+if session:icfparam > ""
+then FileBase = session:icfparam.
+update FileBase.
 InputFileName = subst("&1.tab.txt", FileBase).
 OutputFileName = subst("&1.tab.html", FileBase).
 
 def var AreaList as char no-undo.
 def var Area as char.
+def var Partition as char.
+def var TableName as char.
 
 def stream sOut.
 def var reader as TextFileReader no-undo.
@@ -31,14 +36,17 @@ put stream sOut unformatted "          ['Global', null, 0, 0, 0]," skip.
 repeat while reader:ReadRow():
 /*    disp reader:CurrentRow[13] reader:GetValue(13) reader:GetValue("Table").*/
     Area = subst("&1 area", reader:GetValue("Area")).
-    if integer(reader:GetValue("Size")) > 0
+    if int64(reader:GetValue("Size")) > 0
     then do:
         if lookup(Area, AreaList) = 0
         then do:
             put stream sOut unformatted subst("          ['&1', 'Global', 0, 0, 0],", Area) skip.
             AreaList = subst("&1,&2", AreaList, Area).
         end.    
-        put stream sOut unformatted subst("          ['&1', '&2', &3, 0, &4],",  reader:GetValue("Table"), Area, reader:GetValue("Size"), reader:GetValue("Records"), reader:GetValue("Mean")) skip.
+        Partition = reader:GetValue("Partition").
+        TableName = reader:GetValue("Table").
+        if Partition = "-" then Partition = TableName.
+        put stream sOut unformatted subst("          ['&1', '&2', &3, 0, &4],",  Partition, Area, reader:GetValue("Size"), reader:GetValue("Records"), reader:GetValue("Mean")) skip.
     end.
 end.
 output stream sOut close.
