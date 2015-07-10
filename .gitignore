@@ -1,3 +1,6 @@
+.pct
+*.r
+src/advisor.p
 private
 sample
 sample.html

@@ -22,6 +22,11 @@
     <!-- not yet <taskdef resource="extras.properties" /> -->
     <!-- add .pct directory to default excludes -->
     <defaultexcludes echo="${verbose}" add="**/.pct/**"/>
+    <path id="PCTPropath">
+        <pathelement path="."/>
+        <pathelement path="src"/>
+    </path>
+
 
 	<!-- =================================
           target: document
@@ -32,6 +37,12 @@
          ================================= -->
 	<target name="info" description="Show info">
 		<echoproperties/>
+	</target>
+
+    <!-- =================================
+          target: init
+         ================================= -->
+	<target name="init" description="Initialize for first use" depends="clean,download_advisor,createdb,compile">
 	</target>
 
     <!-- =================================
@@ -84,9 +95,18 @@
                 </patternset>
             </fileset>
 
-            <propath refid="PCTPropath_${project}" />
+            <propath refid="PCTPropath" />
+            <!--
         	<DBConnectionSet refid="PCTDBConnectionSet_${project}"/>
+            -->
         </PCTCompile>
+    </target>
+
+    <!-- =================================
+          target: compile
+         ================================= -->
+    <target name="download_advisor" depends="" description="Download advisor">
+        <get src="http://themaddba.com/downloads/advisor.p" usetimestamp="true" dest="src/advisor.p" verbose="${verbose}" />
     </target>
 
 </project>

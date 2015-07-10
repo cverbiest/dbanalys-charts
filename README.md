@@ -19,7 +19,7 @@ Just started, nothing much yet
 ### Required ###
 ### Optional ###
 * PCT : download jar and put in $ANT_HOME/lib [https://github.com/jakejustus/pct/releases](https://github.com/jakejustus/pct/releases)
-* advisor : download advisor.p and put in src or other directory in PROPATH [progresstalk.com thread](http://www.progresstalk.com/threads/how-much-free-information-is-too-much.140432/page-2a)
+* advisor : download advisor.p and put in src or other directory in PROPATH [advisor.p](http://themaddba.com/downloads/advisor.p)
 
 ## Todo's ##
 * PCT build.xml
