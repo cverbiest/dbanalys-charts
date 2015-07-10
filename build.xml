@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="dbanalys-graphs" >
+
+    <!-- =================================
+          Definitions
+         ================================= -->
+	<tstamp prefix="starttime"/>
+
+	<!-- read local config, see sample in samples directory -->
+    <property environment="env"/>
+    <property name="verbose" value="false" />
+    <property name="DLC" value="${env.DLC}" />
+    <condition property="bat" value=".bat" else="">
+        <os family="windows" />
+    </condition>
+
+    <!-- =================================
+         PCT
+         ================================= -->
+    <taskdef resource="PCT.properties" />
+    <typedef resource="types.properties" />
+    <!-- not yet <taskdef resource="extras.properties" /> -->
+    <!-- add .pct directory to default excludes -->
+    <defaultexcludes echo="${verbose}" add="**/.pct/**"/>
+
+	<!-- =================================
+          target: document
+         ================================= -->
+
+    <!-- =================================
+          target: info
+         ================================= -->
+	<target name="info" description="Show info">
+		<echoproperties/>
+	</target>
+
+    <!-- =================================
+          target: clean
+         ================================= -->
+	<extension-point name="clean" description="clean"/>
+	<target name="delete_rcode" extensionOf="clean" description="Delete r-code">
+		<delete verbose="${verbose}">
+			<fileset dir="." includes="**/*.r" />
+		</delete>
+	</target>
+
+    <!-- =================================
+          target: createdb
+         ================================= -->
+    <target name="createdb">
+        <!--
+        <PCTCreateBase dbName="sports2000" destDir="sample" dlcHome="${DLC}" />
+        -->
+        <exec executable="${DLC}/bin/prodb${bat}">
+            <arg line="sample/sports2000 sports2000" />
+            <env key="DLC" value="${DLC}" />
+        </exec>
+        <exec executable="${DLC}/bin/proutil${bat}">
+            <arg line="sample/sports2000 -C updatevst" />
+            <env key="DLC" value="${DLC}" />
+        </exec>
+	</target>
+
+    <!-- =================================
+          target: compile
+         ================================= -->
+    <target name="compile" depends="" description="PCT compile ">
+        <PCTCompile destDir="${basedir}" graphicalMode="false" dlcHome="${DLC}"
+            md5="true" minSize="false" cpinternal="utf-8" cpstream="utf-8"
+            compileUnderscore="true" inputchars="10240"
+            token="1024" progPerc="0" failOnError="${pctCompile.failOnError}" runlist="yes"
+            verbose="${verbose}"
+            preprocess="true"
+            debugListing="true"
+            listing="true"
+            keepXref="true"
+            xmlXref="true"
+            relativePaths="false"           
+        	>
+            <fileset id="progress src" dir="${basedir}/src" casesensitive="false">
+                <patternset>
+                	<include name="**/*.cls"/>
+                	<include name="**/*.p"/>
+                </patternset>
+            </fileset>
+
+            <propath refid="PCTPropath_${project}" />
+        	<DBConnectionSet refid="PCTDBConnectionSet_${project}"/>
+        </PCTCompile>
+    </target>
+
+</project>
