@@ -30,6 +30,7 @@ SOFTWARE.
 2015-07-02T09:10:58.000+2:00 "oVMach4VG4TSE/RpuADR3A" "LISA" "Control Area" 1 "-" "-" 0 "-" "-" 0 "PUB" "_Area" -71 12 547 42 54 45 12 1.0 1.0
 
 */
+block-level on error undo, throw.
 
 def input param FileBase as character no-undo.
 def var InputFileName as character no-undo.

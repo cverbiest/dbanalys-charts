@@ -26,7 +26,14 @@ if session:icfparam > ""
 then FileBase = session:icfparam.
 
 if not session:batch-mode then update FileBase.
-run tables_treemap.p(FileBase).
+if proversion > "11"
+then do on error undo, retry
+    on stop undo, retry:
+    run tables_treemap.p(FileBase).
+    catch e as progress.lang.error:
+        message "Error during tables_treemap.p" skip e:getmessage(1).
+    end.
+end.
  
 if num-dbs = 1 and search("advisor.p") > ""
 then do:
