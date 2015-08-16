@@ -106,7 +106,7 @@
           target: compile
          ================================= -->
     <target name="download_advisor" depends="" description="Download advisor">
-        <get src="http://themaddba.com/downloads/advisor.p" usetimestamp="true" dest="src/advisor.p" verbose="${verbose}" />
+        <get src="http://www.oehive.org/files/advisor.p" usetimestamp="true" dest="src/advisor.p" verbose="${verbose}" />
     </target>
 
 </project>
